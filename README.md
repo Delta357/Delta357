@@ -46,9 +46,6 @@ Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine lear
 <br/>
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta357&theme=github_dark)](https://github.com/Delta357)
-
-
 # IDE 
 ![Jupyter notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![RSTUDIO](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
