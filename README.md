@@ -11,7 +11,7 @@ Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine lear
 - 📫 How to Find Me **gallorafael222@gmail.com**
 
 # Skills
-* 💻: Python, R, HTML, CSS, JavaScript, Java
+* 💻: Python, R
 * 🖥: SQL, NoSQL, SQL Server, MongoDB
 * ☁️: Google Cloud, Azure
 * 📁: Data analysis, Machine Learning
