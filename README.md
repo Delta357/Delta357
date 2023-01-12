@@ -1,7 +1,19 @@
+# 👋 Rafael Gallo
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Delta357)](https://github.com/Delta357)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-g-986a73150/)
+
+Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine learning
+
+- 🔭 Bachelor of Computer Engineering [Impacta](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)
+
+- 👨‍💻 All my projects are available at https://rafaelgallo.github.io/webportfolio/
+
+- 📫 How to Find Me **gallorafael222@gmail.com**
+
 # Skills
 * 💻: Python, R, HTML, CSS, JavaScript, Java
 * 🖥: SQL, NoSQL, SQL Server, MongoDB
-* ☁️: Google cloud, BigQuery, Datalab, Azure, IBM Cloud
+* ☁️: Google Cloud, Azure
 * 📁: Data analysis, Machine Learning
 * 📊: Big data analytics 
 * 📙: Calculation 1
