@@ -29,6 +29,8 @@
 ![SQLServer](https://img.shields.io/badge/-SQL_Server-black?style=flat-square&logo=SQL_Server)
 ![ETL](https://img.shields.io/badge/-ETL-black?style=flat-square&logo=ETL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![PySpark](https://img.shields.io/badge/-PySpark-black?style=flat-square&logo=PySpark)
+![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=Spark)
 <br/>
 <br/>
 
