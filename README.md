@@ -16,7 +16,7 @@ Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine lear
 * ☁️: Google Cloud, Azure
 * 📁: Data analysis, Machine Learning
 * 📊: Big data analytics 
-* 📙: Calculation 1
+* 📙: Calculation
 * 📙: Linear algebra
 * 📙: Statistical
 
