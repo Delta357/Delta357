@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Delta357)](https://github.com/Delta357)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-g-986a73150/)
 
-Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine learning
+:herb: Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine learning
 
 - 🔭 Bachelor of Computer Engineering 
 
