@@ -4,7 +4,7 @@
 
 Enthusiast in Data Science / Statistics / Artificial Intelligence / Machine learning
 
-- 🔭 Bachelor of Computer Engineering [Impacta](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)
+- 🔭 Bachelor of Computer Engineering 
 
 - 👨‍💻 All my projects are available at https://rafaelgallo.github.io/webportfolio/
 
