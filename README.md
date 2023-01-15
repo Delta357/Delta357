@@ -14,6 +14,7 @@
 * 💻: Python, R
 * 🖥: SQL, NoSQL, SQL Server, MongoDB
 * ☁️: Google Cloud, Azure
+* ☁️: BigQuery, databricks
 * 📁: Data analysis, Machine Learning
 * 📊: Big data analytics 
 * 📙: Calculation
