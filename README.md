@@ -6,7 +6,7 @@
 
 - 🔭 Bachelor of Computer Engineering 
 
-- 👨‍💻 All my projects are available at https://rafaelgallo.github.io/webportfolio/
+- 👨‍💻 All my projects are available at https://delta357.github.io/webportfolio
 
 - 📫 How to Find Me **gallorafael222@gmail.com**
 
