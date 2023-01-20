@@ -1,5 +1,6 @@
 # 👋 Rafael Gallo
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Delta357)](https://github.com/Delta357)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-000?style=flat-square&logo=Gitlab&logoColor=white&link=[https://github.com/Delta357](https://gitlab.com/RafaelGallo))]([https://github.com/Delta357](https://gitlab.com/RafaelGallo))
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rafael-g-986a73150/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-white?style=flat&logo=Kaggle&logoColor=white)]([https://www.linkedin.com/in/rafael-g-986a73150/](https://www.kaggle.com/gallo33henrique))
 
