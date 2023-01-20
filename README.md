@@ -10,8 +10,6 @@
 
 - 👨‍💻 All my projects are available at https://delta357.github.io/webportfolio
 
-- 📫 How to Find Me **gallorafael222@gmail.com**
-
 # Skills
 * 💻: Python, R
 * 🖥: SQL, NoSQL, SQL Server, MongoDB
