@@ -10,6 +10,8 @@
 
 - 👨‍💻 All my projects are available at https://delta357.github.io/webportfolio
 
+- ⭐ I am also passionate about astronomy
+
 # Skills
 * 💻: Python, R
 * 🖥: SQL, NoSQL, SQL Server, MongoDB
